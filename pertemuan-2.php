@@ -33,13 +33,10 @@
             }elseif($nilai_akhir >= 60){
                 echo "Nilai $nama, $nilai_akhir, Lulus";
             }elseif($nilai_akhir >= 50){
-                echo "Nilai $nama, $nilai_akhir, Tidak Lulus";
+                echo "Nilai $nama, $nilai_akhir, Lulus";
             }else{
                 echo "Nilai $nama, $nilai_akhir, Anda dinyatakan tidak lulus";
             }
-        }
-        else {
-            echo "Silahkan masukkan data";
         }
     ?>
 </body>
