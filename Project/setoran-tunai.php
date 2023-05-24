@@ -64,8 +64,8 @@
         </table>
     </form>
     <?php
-    // Load data setoran-tunai.txt
-    $data = file_get_contents('data/setoran-tunai.txt');
+    // Load data setoran-tunai.json
+    $data = file_get_contents('data/setoran-tunai.json');
     $data = json_decode($data, true);
 
     // Tampilkan data setoran
@@ -114,12 +114,11 @@
                 'biayaAdmin' => $biayaAdmin
             );
             $data[] = $newData;
-                            $jsonData = json_encode($data);
-                            file_put_contents('data/setoran-tunai.txt', $jsonData);
+            $jsonData = json_encode($data);
                             
             // Mengubah data menjadi format JSON dengan pretty print
             $data_json = json_encode($data, JSON_PRETTY_PRINT);
-            file_put_contents('data/setoran-tunai.txt', $data_json);
+            file_put_contents('data/setoran-tunai.json', $data_json);
         }
     }
         ?>
