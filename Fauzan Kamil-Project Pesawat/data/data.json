@@ -1,0 +1,114 @@
+[
+    {
+        "maskapai": "Aang Air",
+        "asal": "Abdul Rachman Saleh (MLG)",
+        "tujuan": "Hasanuddin (UPG)",
+        "harga_tiket": "Rp 2.000.000,00",
+        "pajak": "Rp 110.000,00",
+        "total": "Rp 2.110.000,00"
+    },
+    {
+        "maskapai": "Adam Air",
+        "asal": "Soekarno-Hatta (CGK)",
+        "tujuan": "Sultan Iskandarmuda (BTJ)",
+        "harga_tiket": "2000000",
+        "pajak": 120000,
+        "total": 2120000
+    },
+    {
+        "maskapai": "Asep",
+        "asal": "Abdul Rachman Saleh (MLG)",
+        "tujuan": "Inanwatan (INX)",
+        "harga_tiket": "Rp 2.000.000,00",
+        "pajak": "Rp 130.000,00",
+        "total": "Rp 2.130.000,00"
+    },
+    {
+        "maskapai": "Bambang",
+        "asal": "Abdul Rachman Saleh (MLG)",
+        "tujuan": "Hasanuddin (UPG)",
+        "harga_tiket": "2000000",
+        "pajak": 0,
+        "total": 2000000
+    },
+    {
+        "maskapai": "Batik",
+        "asal": "Soekarno-Hatta (CGK)",
+        "tujuan": "Hasanuddin (UPG)",
+        "harga_tiket": "890000",
+        "pajak": 120000,
+        "total": 1010000
+    },
+    {
+        "maskapai": "Batik",
+        "asal": "Husein Sastranegara (BDO)",
+        "tujuan": "Sultan Iskandarmuda (BTJ)",
+        "harga_tiket": "100000",
+        "pajak": 100000,
+        "total": 200000
+    },
+    {
+        "maskapai": "Batik Indonesia",
+        "asal": "Abdul Rachman Saleh (MLG)",
+        "tujuan": "Hasanuddin (UPG)",
+        "harga_tiket": "Rp 100.000,00",
+        "pajak": "Rp 110.000,00",
+        "total": "Rp 210.000,00"
+    },
+    {
+        "maskapai": "Citilink",
+        "asal": "Soekarno-Hatta (CGK)",
+        "tujuan": "Sultan Iskandarmuda (BTJ)",
+        "harga_tiket": "89000",
+        "pajak": 120000,
+        "total": 209000
+    },
+    {
+        "maskapai": "Garuda Indonesia",
+        "asal": "Soekarno-Hatta (CGK)",
+        "tujuan": "Ngurah Rai (DPS)",
+        "harga_tiket": "1500000",
+        "pajak": 130000,
+        "total": 1630000
+    },
+    {
+        "maskapai": "Jingga",
+        "asal": "Husein Sastranegara (BDO)",
+        "tujuan": "Hasanuddin (UPG)",
+        "harga_tiket": "Rp 200.000,00",
+        "pajak": "Rp 100.000,00",
+        "total": "Rp 300.000,00"
+    },
+    {
+        "maskapai": "Polki",
+        "asal": "Soekarno Hatta (CGK)",
+        "tujuan": "Inanwatan (INX)",
+        "harga_tiket": "Rp 2.000.000,00",
+        "pajak": "Rp 140.000,00",
+        "total": "Rp 2.140.000,00"
+    },
+    {
+        "maskapai": "Senja",
+        "asal": "Abdul Rachman Saleh (MLG)",
+        "tujuan": "Hasanuddin (UPG)",
+        "harga_tiket": "Rp 2.000.000,00",
+        "pajak": "Rp 110.000,00",
+        "total": "Rp 2.110.000,00"
+    },
+    {
+        "maskapai": "mala",
+        "asal": "Husein Sastranegara (BDO)",
+        "tujuan": "Inanwatan (INX)",
+        "harga_tiket": "190000",
+        "pajak": 120000,
+        "total": 310000
+    },
+    {
+        "maskapai": "oli",
+        "asal": "Soekarno-Hatta (CGK)",
+        "tujuan": "Ngurah Rai (DPS)",
+        "harga_tiket": "12345",
+        "pajak": 130000,
+        "total": 142345
+    }
+]

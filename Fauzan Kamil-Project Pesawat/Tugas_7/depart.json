@@ -1,0 +1,18 @@
+[
+    {
+        "depart": "Soekarno-Hatta (CGK)",
+        "tax": 50000
+    },
+    {
+        "depart": "Husein Sastranegara (BDO)",
+        "tax": 30000
+    },
+    {
+        "depart": "Abdul Rachman Saleh (MLG)",
+        "tax": 40000
+    },
+    {
+        "depart": "Juanda (SUB)",
+        "tax": 40000
+    }
+]
